@@ -20,7 +20,7 @@ Server : Tomcat 9.5
 ![6a3cd1bbd8b73df8eae257513364ef02dabb0fb9](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/d82d6908-19a0-4f85-bdf1-2cde2e14fba2)<br>
 
 3.Login page
-![4a1eaa3b1b6b198e157c39bd62efe9954c343526](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/82a80dd6-b28e-4b1a-a890-e8c60df193fb)<br>
+![4a1eaa3b1b6b198e157c39bd62efe9954c343526](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/82a80dd6-b28e-4b1a-a890-e8c60df193fb)
 
 4.Menu
  a.About page
@@ -30,6 +30,24 @@ Server : Tomcat 9.5
  ![Screenshot 2024-02-29 195446](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/9777ffe5-16cc-4004-97ce-ddcbd6a46e3c)<br>
 
  c.User profile
+ ![Screenshot 2024-06-14 200831](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/cec17a89-1b2e-4bea-b0b7-d494822da4d3)<br>
+
+5.Add to cart
+![image](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/a5c06c34-2bef-4dc8-8cef-e5e0de8e5474)<br>
+
+6.Checkout page
+![Screenshot 2024-06-14 201436](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/d5df21b2-369d-42e3-b2a9-38873b03d3d3)<br>
+
+7.Payment Page
+![image](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/57d1b59f-28ff-4aed-931d-03e1fab736bb)<br>
+
+8.Order page
+![image](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/b7efa68c-2b77-4aad-a98d-8e6fe6390c28)
+
+
+
+
+
 
  
 
