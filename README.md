@@ -41,8 +41,9 @@ Server : Tomcat 9.5
 7.Payment Page
 ![image](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/57d1b59f-28ff-4aed-931d-03e1fab736bb)<br>
 
-![image](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/b7efa68c-2b77-4aad-a98d-8e6fe6390c28)
 8.Order page
+![image](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/b7efa68c-2b77-4aad-a98d-8e6fe6390c28)
+
 
 
 
