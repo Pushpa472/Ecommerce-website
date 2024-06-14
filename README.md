@@ -13,5 +13,9 @@ Server : Tomcat 9.5
 
 Homepage
 ![8aae7250cd1342aeb8b62d9c86d355784ab920bc](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/2afe55e4-5a9f-4d37-b851-0468abb4217c)
+![d637b7f44b815a719e86b48bcfc771fbafce25a4](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/3011e153-647c-4449-a093-f81b12648935)
+![507b0be8d38f7abc7f3fee86f9dc28ed04629478](https://github.com/Pushpa472/Ecommerce-website/assets/116655535/027fe406-358d-42c4-b5c5-f1694cb27454)
+
+
 
 # Note: E-commerce Website is not fully integrated website
