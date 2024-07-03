@@ -5,10 +5,10 @@ It does not integrate with a complete payment system, but it stores user details
 The admin can update product listings to enhance customer access.
 
 Technology:
-Front-end : HTML,Css,Javascript,Java Server page
-Back-end : Java,MySql,
-Framework: Hibernate,Bootstrap
-Server-side: Servlet 
+Front-end : HTML,Css,Javascript,Java Server page<br>
+Back-end : Java,MySql,<br>
+Framework: Hibernate,Bootstrap<br>
+Server-side: Servlet <br>
 Server : Tomcat 9.5
 
 1.Homepage
