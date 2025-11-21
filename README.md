@@ -55,4 +55,4 @@ Server : Tomcat 9.5
 
 
 
-# Note: E-commerce Website is not fully integrated website
+
